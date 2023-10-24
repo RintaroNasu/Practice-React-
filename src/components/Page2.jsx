@@ -3,7 +3,7 @@ import {Link} from "react-router-dom"
 export const Page2 = () => {
     return(
         <div>
-            <h1>Page2です。</h1>
+            <h1>Page2になりました。</h1>
             <Link to="/page2/999?name=hogehoge">UrlParameter</Link>
         </div>
     );
